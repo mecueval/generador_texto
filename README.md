@@ -4,6 +4,10 @@ Este proyecto implementa un **generador de texto basado en probabilidades** de a
 Forma parte de una práctica del curso de **Inteligencia Artificial**.
 
 ---
+## Autores
+María Emilia Cueva 
+Carlos Flores
+Jhonatan Quiroga
 
 ## 📋 Descripción
 
@@ -30,8 +34,8 @@ El proyecto incluye dos etapas principales:
    python cambiador.py
 Esto genera un archivo texto_limpio.txt.
 
-2.Calcula las distribuciones y genera texto:
+2. Calcula las distribuciones y genera texto:
   ```bash
-  python generador_texto.py Se generarán:
+  python generador_texto.py
 
 
